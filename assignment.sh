@@ -1,4 +1,5 @@
 #!/bin/bash -x
+echo "hello"
 declare -A Values
 a=$(( RANDOM%99 ))
 b=$(( RANDOM%99 ))
