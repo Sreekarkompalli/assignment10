@@ -1,5 +1,8 @@
 #!/bin/bash -x
 echo "hello"
+echo "sreekar"
+echo "bridzlabz"
+echo "coders"
 declare -A Values
 a=$(( RANDOM%99 ))
 b=$(( RANDOM%99 ))
